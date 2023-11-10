@@ -19,3 +19,5 @@
 
 # Go workspace file
 go.work
+id_ed25519.pub
+id_ed25519
